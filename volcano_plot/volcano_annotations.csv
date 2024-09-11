@@ -1,0 +1,23 @@
+accession   ,UniProt accession ,Symbol, Category, Plot Name
+AT3G42670.1 ,Q9M297            ,CLSY1, CLSYs/SHH1, CLSY1
+AT5G20420.1 ,Q3E999            ,CLSY2, CLSYs/SHH1, CLSY2
+AT1G05490.1 ,Q9ZVY9            ,CLSY3, CLSYs/SHH1, CLSY3
+AT3G24340.1 ,Q9LK10            ,CLSY4, CLSYs/SHH1, CLSY4
+AT1G15215.2 ,Q9XI47            ,SHH1, CLSYs/SHH1, SHH1
+AT1G63020.1 ,Q9LQ02            ,NRPD1, Core Pol IV,
+AT3G23780.1 ,Q9LK40            ,NRPD2, Core Pol IV, 
+AT2G15430.1 ,Q39211            ,NRPD3A, Core Pol IV, 
+AT2G15400.1 ,Q39212            ,NRPD3B, Core Pol IV, 
+AT4G15950.1 ,Q6DBA5            ,NRPD4, Core Pol IV, 
+AT3G22320.1 ,O81098            ,NRPD5A, Core Pol IV, 
+AT2G41340.1 ,Q9ZVB9            ,NRPD5B, Core Pol IV, 
+AT2G04630.1 ,Q9SJ96            ,NRPB6B, Core Pol IV, 
+AT3G22900.1 ,Q8LE42            ,NRPD7A, Core Pol IV, 
+AT4G14660.1 ,A6QRA1            ,NRPD7B, Core Pol IV, 
+AT3G59600.1 ,Q9M1A8            ,NRPD8B, Core Pol IV, 
+AT3G16980.1 ,Q6NLH0            ,NRPD9A, Core Pol IV, 
+AT4G16265.1 ,Q8L5V0            ,NRPD9B, Core Pol IV, 
+AT1G11475.1 ,Q8LFJ6            ,NRPD10, Core Pol IV, 
+AT3G52090.2 ,Q38859            ,NRPD11, Core Pol IV, 
+AT5G41010.1 ,Q9FLM8            ,NRPD12, Core Pol IV, 
+AT4G11130.1 ,O82504            ,RDR2, RDR2, RDR2
