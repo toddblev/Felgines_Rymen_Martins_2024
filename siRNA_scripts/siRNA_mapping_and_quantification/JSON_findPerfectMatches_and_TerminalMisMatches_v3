@@ -1,0 +1,130 @@
+{
+"filters" : [
+{ "id" : "FwdstrandHas3'MismatchA",
+"tag" : "MD:*A0",
+"isReverseStrand" : "false"
+},
+{ "id" : "FwdstrandHas3'MismatchT",
+"tag" : "MD:*T0",
+"isReverseStrand" : "false"
+},
+{ "id" : "FwdstrandHas3'MismatchC",
+"tag" : "MD:*C0",
+"isReverseStrand" : "false"
+},
+{ "id" : "FwdstrandHas3'MismatchG",
+"tag" : "MD:*G0",
+"isReverseStrand" : "false"
+},
+{ "id" : "RevstrandHas3'MismatchT",
+"tag" : "MD:0T*",
+"isReverseStrand" : "true"
+},
+{ "id" : "RevstrandHas3'MismatchA",
+"tag" : "MD:0A*",
+"isReverseStrand" : "true"
+},
+{ "id" : "RevstrandHas3'MismatchC",
+"tag" : "MD:0C*",
+"isReverseStrand" : "true"
+},
+{ "id" : "RevstrandHas3'MismatchG",
+"tag" : "MD:0G*",
+"isReverseStrand" : "true"
+},
+{ "id" : "15ntPerfectMatch",
+"tag" : "MD:15"
+},
+{ "id" : "16ntPerfectMatch",
+"tag" : "MD:16"
+},
+{ "id" : "17ntPerfectMatch",
+"tag" : "MD:17"
+},
+{ "id" : "18ntPerfectMatch",
+"tag" : "MD:18"
+},
+{ "id" : "19ntPerfectMatch",
+"tag" : "MD:19"
+},
+{ "id" : "20ntPerfectMatch",
+"tag" : "MD:20"
+},
+{ "id" : "21ntPerfectMatch",
+"tag" : "MD:21"
+},
+{ "id" : "22ntPerfectMatch",
+"tag" : "MD:22"
+},
+{ "id" : "23ntPerfectMatch",
+"tag" : "MD:23"
+},
+{ "id" : "24ntPerfectMatch",
+"tag" : "MD:24"
+},
+{ "id" : "25ntPerfectMatch",
+"tag" : "MD:25"
+},
+{ "id" : "26ntPerfectMatch",
+"tag" : "MD:26"
+},
+{ "id" : "27ntPerfectMatch",
+"tag" : "MD:27"
+},
+{ "id" : "28ntPerfectMatch",
+"tag" : "MD:28"
+},
+{ "id" : "29ntPerfectMatch",
+"tag" : "MD:29"
+},
+{ "id" : "30ntPerfectMatch",
+"tag" : "MD:30"
+},
+{ "id" : "31ntPerfectMatch",
+"tag" : "MD:31"
+},
+{ "id" : "32ntPerfectMatch",
+"tag" : "MD:32"
+},
+{ "id" : "33ntPerfectMatch",
+"tag" : "MD:33"
+},
+{ "id" : "34ntPerfectMatch",
+"tag" : "MD:34"
+},
+{ "id" : "35ntPerfectMatch",
+"tag" : "MD:35"
+},
+{ "id" : "36ntPerfectMatch",
+"tag" : "MD:36"
+},
+{ "id" : "37ntPerfectMatch",
+"tag" : "MD:37"
+},
+{ "id" : "38ntPerfectMatch",
+"tag" : "MD:38"
+},
+{ "id" : "39ntPerfectMatch",
+"tag" : "MD:39"
+},
+{ "id" : "40ntPerfectMatch",
+"tag" : "MD:40"
+},
+{ "id" : "41ntPerfectMatch",
+"tag" : "MD:41"
+},
+{ "id" : "42ntPerfectMatch",
+"tag" : "MD:42"
+},
+{ "id" : "43ntPerfectMatch",
+"tag" : "MD:43"
+},
+{ "id" : "44ntPerfectMatch",
+"tag" : "MD:44"
+},
+{ "id" : "45ntPerfectMatch",
+"tag" : "MD:45"
+}
+],
+"rule" : " FwdstrandHas3'MismatchA | FwdstrandHas3'MismatchT | FwdstrandHas3'MismatchC | FwdstrandHas3'MismatchG |RevstrandHas3'MismatchT | RevstrandHas3'MismatchA | RevstrandHas3'MismatchC | RevstrandHas3'MismatchG | 15ntPerfectMatch | 16ntPerfectMatch | 17ntPerfectMatch | 18ntPerfectMatch | 19ntPerfectMatch | 20ntPerfectMatch | 21ntPerfectMatch | 22ntPerfectMatch | 23ntPerfectMatch | 24ntPerfectMatch | 25ntPerfectMatch | 26ntPerfectMatch | 27ntPerfectMatch | 28ntPerfectMatch | 29ntPerfectMatch | 30ntPerfectMatch | 31ntPerfectMatch | 32ntPerfectMatch | 33ntPerfectMatch | 34ntPerfectMatch | 35ntPerfectMatch | 36ntPerfectMatch | 37ntPerfectMatch | 38ntPerfectMatch | 39ntPerfectMatch | 40ntPerfectMatch | 41ntPerfectMatch | 42ntPerfectMatch | 43ntPerfectMatch | 44ntPerfectMatch | 45ntPerfectMatch  "
+}
