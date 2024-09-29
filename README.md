@@ -24,17 +24,18 @@ Full datasets available as supplementary data.
    
 ### Small interfering RNA (siRNA) analyses
 
-  - violin plots
-    - Author: Guanghui Xu
-    - Description: Base script used to generate violin plots for Fig. 4A
-    - Example dataset: Data from Fig. 4A
-  - half-violin plots
-    - Author: Guanghui Xu
-    - Description: Base script used to generate half-violin plots for Fig. 4B
-    - Example dataset: Data from Fig. 4B
-  - siRNA_mapping_and_quantification
-    - Author: Guanghui Xu
-    - Description: splitTagDirectoryByLength.dev2.pl, JSON_findPerfectMatches_and_TerminalMisMatches_v3
+- siRNA_scripts
+    - violin plots
+      - Author: Guanghui Xu
+      - Description: Base script used to generate violin plots for Fig. 4A
+      - Example dataset: Data from Fig. 4A
+    - half-violin plots
+      - Author: Guanghui Xu
+      - Description: Base script used to generate half-violin plots for Fig. 4B
+      - Example dataset: Data from Fig. 4B
+    - siRNA_mapping_and_quantification
+      - Author: Guanghui Xu
+      - Description: splitTagDirectoryByLength.dev2.pl, JSON_findPerfectMatches_and_TerminalMisMatches_v3
 
 ## Paper Information
 ### CLSY docking to Pol IV requires a conserved domain critical for small RNA biogenesis and transposon silencing.
