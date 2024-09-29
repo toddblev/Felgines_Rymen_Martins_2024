@@ -9,7 +9,7 @@ Full datasets available as supplementary data.
   - volcano_plot/volcano_example.R
     - Author: Calvin Matteoli
     - Description: Base script used to generate volcano plots for Fig. 2C, 2D, 3A and 3C
-    - Example dataset: Data from figure 2C
+    - Example dataset: Data from Fig. 2C
 
 ### Balloon Plots
 
