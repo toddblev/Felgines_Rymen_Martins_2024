@@ -1,0 +1,8 @@
+csv.file.name	genotype_id
+DESeq_24ntsiRNA_cluster_nrpd1_3.txt	nrpd1-3 null
+DESeq_24ntsiRNA_cluster_nrpd1_51.txt	nrpd1-51 null
+DESeq_24ntsiRNA_cluster_clsy1234.txt	clsy quad
+DESeq_24ntsiRNA_cluster_nrpd1_49.txt	nrpd1-49 G72E
+DESeq_24ntsiRNA_cluster_nrpd1_50.txt	nrpd1-50 YYC-YPMF
+DESeq_24ntsiRNA_cluster_NRPD1_3xF_Mut9.txt	NRPD1-3xF AAA-YPMF
+DESeq_24ntsiRNA_cluster_NRPD1_3xF_Mut10.txt	NRPD1-3xF CYC-AAAA

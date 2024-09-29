@@ -1,0 +1,7 @@
+fileName	sample	genotypeID
+final_master_WTcore_24ntCluster_sorted.bed	master	all
+clsy12_m1_wAddBackclusters_sorted.bed	clsy12_m1_wAddBack	clsy12
+clsy34_m1_wAddBackclusters_sorted.bed	clsy34_m1_wAddBack	clsy34
+c12_c34_syner.txt	c12_c34_syner	c12_c34_syner
+clsy3_m1.csv_addBack.txt	clsy3	clsy3
+clsy4_m2.csv_addBack.txt	clsy4	clsy4
