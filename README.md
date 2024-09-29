@@ -19,7 +19,7 @@ Full datasets available as supplementary data.
       - Example dataset: Data from Fig. 3D
   - balloon_plot_split/balloonplot_split_example.R
       - Author: Calvin Matteoli
-      - Description: Script used to generatesplit p-value balloon plots
+      - Description: Script used to generate split p-value balloon plots
       - Example dataset: Fig. 2B
    
 ### Small interfering RNA (siRNA) analyses
