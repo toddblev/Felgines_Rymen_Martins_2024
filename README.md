@@ -4,38 +4,38 @@ Full datasets available as supplementary data.
 
 ## Available scripts
 
-### Volcano Plots
+### immunoprecipitation and mass spectrometry (IP-MS) analyses
 
+- Volcano Plots
   - volcano_plot/volcano_example.R
     - Author: Calvin Matteoli
     - Description: Base script used to generate volcano plots for Fig. 2C, 2D, 3A and 3C
     - Example dataset: Data from Fig. 2C
 
-### Balloon Plots
-
+- Balloon Plots
   - balloon_plot_simple/balloonplot_example.R
-      - Author: Calvin Matteoli
-      - Description: Base script used to generate balloon plots for Fig. 3B and 3D
-      - Example dataset: Data from Fig. 3D
+    - Author: Calvin Matteoli
+    - Description: Base script used to generate balloon plots for Fig. 3B and 3D
+    - Example dataset: Data from Fig. 3D
   - balloon_plot_split/balloonplot_split_example.R
-      - Author: Calvin Matteoli
-      - Description: Script used to generate split p-value balloon plots
-      - Example dataset: Fig. 2B
+    - Author: Calvin Matteoli
+    - Description: Script used to generate split p-value balloon plots
+    - Example dataset: Fig. 2B
    
 ### Small interfering RNA (siRNA) analyses
 
 - siRNA_scripts
-    - violin plots
-      - Author: Guanghui Xu
-      - Description: Base script used to generate violin plots for Fig. 4A
-      - Example dataset: Data from Fig. 4A
-    - half-violin plots
-      - Author: Guanghui Xu
-      - Description: Base script used to generate half-violin plots for Fig. 4B
-      - Example dataset: Data from Fig. 4B
-    - siRNA_mapping_and_quantification
-      - Author: Guanghui Xu
-      - Description: splitTagDirectoryByLength.dev2.pl, JSON_findPerfectMatches_and_TerminalMisMatches_v3
+  - violin plots
+    - Author: Guanghui Xu
+    - Description: Base script used to generate violin plots for Fig. 4A
+    - Example dataset: Data from Fig. 4A
+  - half-violin plots
+    - Author: Guanghui Xu
+    - Description: Base script used to generate half-violin plots for Fig. 4B
+    - Example dataset: Data from Fig. 4B
+  - siRNA_mapping_and_quantification
+    - Author: Guanghui Xu
+    - Description: splitTagDirectoryByLength.dev2.pl, JSON_findPerfectMatches_and_TerminalMisMatches_v3
 
 ## Paper Information
 ### CLSY docking to Pol IV requires a conserved domain critical for small RNA biogenesis and transposon silencing.
