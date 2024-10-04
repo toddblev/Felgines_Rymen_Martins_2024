@@ -4,7 +4,7 @@ Full datasets available as supplementary data.
 
 ## Available scripts
 
-### immunoprecipitation and mass spectrometry (IP-MS) analyses
+### Immunoprecipitation and mass spectrometry (IP-MS) analyses
 
 - Volcano plots
   - volcano_plot/volcano_example.R
