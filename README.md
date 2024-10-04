@@ -6,13 +6,13 @@ Full datasets available as supplementary data.
 
 ### immunoprecipitation and mass spectrometry (IP-MS) analyses
 
-- Volcano Plots
+- Volcano plots
   - volcano_plot/volcano_example.R
     - Author: Calvin Matteoli
     - Description: Base script used to generate volcano plots for Fig. 2C, 2D, 3A and 3C
     - Example dataset: Data from Fig. 2C
 
-- Balloon Plots
+- Balloon plots
   - balloon_plot_simple/balloonplot_example.R
     - Author: Calvin Matteoli
     - Description: Base script used to generate balloon plots for Fig. 3B and 3D
@@ -24,13 +24,13 @@ Full datasets available as supplementary data.
    
 ### Small interfering RNA (siRNA) analyses
 
-- Violin Plots
+- Violin plots
   - siRNA_scripts/Figure_4A_violin_plot/Figure_4A_violin_plot.R
     - Author: Guanghui Xu
     - Description: Base script used to generate violin plots for Fig. 4A
     - Example dataset: Data from Fig. 4A
 
-- Half-violin Plots
+- Half-violin plots
   - siRNA_scripts/Figure_4B_half_violin_plot/Figure_4B_half_violin_plot.R
     - Author: Guanghui Xu
     - Description: Base script used to generate half-violin plots for Fig. 4B
