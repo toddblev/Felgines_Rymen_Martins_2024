@@ -1,6 +1,6 @@
 # Felgines_Rymen_Martins_2024
 Code and example datasets used in the publication Felgines, Rymen, Martins et al. 2024.  
-Full datasets available as supplementary data.
+Full datasets are available as supplementary data.
 
 ## Available scripts
 
