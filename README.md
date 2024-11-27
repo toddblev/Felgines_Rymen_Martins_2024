@@ -1,6 +1,6 @@
 # Felgines_Rymen_Martins_2024
-Code and example datasets used in the publication Felgines, Rymen, Martins et al. 2024.  
-Full datasets are available as supplementary data.
+Code and example datasets used in the publication Felgines, Rymen, Martins et al. (2024) _Nature Communications_
+Full datasets are available as supplementary data. [10.1038/s41467-024-54268-0](https://doi.org/10.1038/s41467-024-54268-0)
 
 ## Available scripts
 
@@ -43,6 +43,7 @@ Full datasets are available as supplementary data.
     - Description: Custom scripts used in combination with standard sRNA-seq alignment tools
 
 ## Paper Information
+_Nature Communications_(2024) 15:10298 [10.1038/s41467-024-54268-0](https://doi.org/10.1038/s41467-024-54268-0)
 ### CLSY docking to Pol IV requires a conserved domain critical for small RNA biogenesis and transposon silencing.
 
 ##### Luisa Felgines<sup>1,a</sup>, Bart Rymen<sup>1,a</sup>, Laura M. Martins<sup>2,a</sup>, Guanghui Xu<sup>2</sup>, Calvin Matteoli<sup>1</sup>, Christophe Himber<sup>1</sup>, Ming Zhou<sup>2,3,b</sup>, Josh Eis<sup>2</sup>, Ceyda Coruh<sup>2</sup>, Marcel Böhrer<sup>1</sup>, Lauriane Kuhn<sup>4</sup>, Johana Chicher<sup>4</sup>, Vijaya Pandey<sup>5</sup>, Philippe Hammann<sup>4</sup>, James Wohlschlegel<sup>5</sup>, Florent Waltz<sup>6</sup>, Julie A. Law<sup>2,7,c</sup>, Todd Blevins<sup>1,c</sup>
